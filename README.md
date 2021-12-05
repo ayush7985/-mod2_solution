@@ -3,7 +3,7 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link:  
+link:  https://ayush7985.github.io/-mod2_solution/
 
 Woo-hoo! You get to do some coding! Exciting!
 
